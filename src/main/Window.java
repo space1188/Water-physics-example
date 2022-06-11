@@ -16,7 +16,7 @@ public class Window {
 		this.WIDTH = 1336;
 		this.HEIGHT = 798;
 
-		JFrame frame = new JFrame("Learning");
+		JFrame frame = new JFrame("Water Physics");
 
 		frame.setSize(this.WIDTH, this.HEIGHT);
 		frame.setPreferredSize(new Dimension(this.WIDTH, this.HEIGHT));
